@@ -1,0 +1,22 @@
+body {
+    background-image: url('/assets/bg.jpg');
+}
+.container {
+    background-color: whitesmoke;
+}
+.center-div {
+    padding-top: 10%;
+}
+
+.btn.btn-success {
+    padding: .4em 2em;
+    margin-top: 10px;
+}
+
+form{
+    padding: 0.3em;
+}
+
+#login .title>span {
+    font-size: 0.8em;
+}
